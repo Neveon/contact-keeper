@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://admin-user-neveon:admin@contactkeeper-eosdm.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongoDB_Private_URI_HERE",
   "jwtSecret": "secret"
 }
